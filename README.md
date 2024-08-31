@@ -19,7 +19,8 @@
 
 <!----------------------TECNOLOGIAS FRONT END-------------------------->
 ```mermaid
-graph TD;
+  %%{init: {'theme': 'dark'}}%%
+  graph TD;
     Front-End-->HTML5;
     Front-End-->CSS3;
     Front-End-->JavaScript;
@@ -27,7 +28,8 @@ graph TD;
 
 <!----------------------TECNOLOGIAS BACK END-------------------------->
 ```mermaid
-graph TD;
+  %%{init: {'theme': 'dark'}}%%
+  graph TD;
     Back-End-->python;
     Back-End-->PHP;
     Back-End-->SQL;
@@ -46,12 +48,7 @@ graph TD;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="48" title="StackOverFlow">    
 <p/>
-<!----------------------VISTAS-------------------------->
-<div align="center">
-<br><p align="centre"><b>Visitas Gonzalo Rolon </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{}/count.svg" /></p> 
-<br>
-</div>
+
 
 <!----------------------FINAL-------------------------->
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
